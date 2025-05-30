@@ -1,0 +1,1 @@
+in console  go to settings  selected contexts only tick and untick do it 
